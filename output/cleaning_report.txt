@@ -1,0 +1,14 @@
+DATA CLEANING & STRUCTURAL VALIDATION REPORT
+==================================================
+
+Original rows: 2240
+Original columns: 29
+Cleaned rows: 2240
+Duplicate records removed: 0
+Missing values before cleaning: 24
+Missing values after cleaning: 0
+Remaining duplicates: 0
+Numeric columns: 26
+Date columns: 1
+
+Cleaning process completed successfully.
